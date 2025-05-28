@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f264c5a50e8264d",
+        "id": "efb5e9787054431f",
         "type": "tabs",
         "children": [
           {
-            "id": "79800de99f8749ee",
+            "id": "f6839db0f6681f45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Ordem.md",
+                "file": "2. Alma/Meus Objetivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Ordem"
+              "title": "Meus Objetivos"
             }
           }
         ]
@@ -168,9 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79800de99f8749ee",
+  "active": "f6839db0f6681f45",
   "lastOpenFiles": [
-    "Meus Objetivos.md",
-    "1. Ordem.md"
+    "2. Alma/1. Ordem.md",
+    "2. Alma/Meus Objetivos.md",
+    "3. Mente",
+    "2. Alma",
+    "1. Corpo"
   ]
 }
