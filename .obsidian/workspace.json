@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meus Objetivos.md",
+                "file": "1. Ordem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meus Objetivos"
+              "title": "1. Ordem"
             }
           }
         ]
@@ -170,7 +170,7 @@
   },
   "active": "79800de99f8749ee",
   "lastOpenFiles": [
-    "Ordem.md",
-    "Meus Objetivos.md"
+    "Meus Objetivos.md",
+    "1. Ordem.md"
   ]
 }
