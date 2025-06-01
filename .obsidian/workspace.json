@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Alma/1. Ordem.md",
+                "file": "2. Alma/Gostos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Ordem"
+              "title": "Gostos"
             }
           }
         ]
@@ -170,8 +170,11 @@
   },
   "active": "f6839db0f6681f45",
   "lastOpenFiles": [
-    "2. Alma/Meus Objetivos.md",
     "2. Alma/1. Ordem.md",
+    "2. Alma/Gostos.md",
+    "2. Alma/Meus Objetivos.md",
+    "2. Alma/Persona.md",
+    "2. Alma/Jogos",
     "1. Corpo/Exercícios em casa.md",
     "3. Mente",
     "2. Alma",
